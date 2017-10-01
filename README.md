@@ -1,2 +1,4 @@
 # hello-world
-Tutorial
+Hi there, 
+
+Former programmer who wants to learn again. 
